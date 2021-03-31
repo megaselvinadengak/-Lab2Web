@@ -1,5 +1,9 @@
 # Lab2Web
 
+# DASAR CSS
+![css](https://user-images.githubusercontent.com/56498195/113094969-da0da900-921c-11eb-88c7-7c27b2a26775.png)
+
+
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
