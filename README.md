@@ -1,7 +1,10 @@
 # Lab2Web
 
 # DASAR CSS
+
 ![css](https://user-images.githubusercontent.com/56498195/113094969-da0da900-921c-11eb-88c7-7c27b2a26775.png)
+
+# 
 Cascading Style Sheet (CSS) merupakan aturan untuk mengatur beberapa komponen dalam sebuah 
 web sehingga akan lebih terstruktur dan seragam. CSS bukan merupakan bahasa pemograman. CSS 
 memudahkan dalam mengubah tampilan di berbagai halaman. Hanya dengan mengubah fungsi 
