@@ -22,10 +22,13 @@ Berikan penjelasan dan contohnya! ( < p id = " paragraf - 1 " class = " text - p
 
 ![Screenshot (143)](https://user-images.githubusercontent.com/56498195/113093743-ab8ece80-921a-11eb-92ef-a330c31eded6.png)
 
-![Screenshot (145)](https://user-images.githubusercontent.com/56498195/113093749-ae89bf00-921a-11eb-907f-dfa32915c1fe.png)
+
 
 ![Screenshot (141)](https://user-images.githubusercontent.com/56498195/113093733-a893de00-921a-11eb-84d5-f37a9f66bf2d.png)
 
-![Screenshot (142)](https://user-images.githubusercontent.com/56498195/113093738-aa5da180-921a-11eb-9124-c1891c880bcf.png)
 
 ![Screenshot (144)](https://user-images.githubusercontent.com/56498195/113093745-acbffb80-921a-11eb-8114-1de890e8b0c9.png)
+
+![Screenshot (145)](https://user-images.githubusercontent.com/56498195/113093749-ae89bf00-921a-11eb-907f-dfa32915c1fe.png)
+
+![Screenshot (142)](https://user-images.githubusercontent.com/56498195/113093738-aa5da180-921a-11eb-9124-c1891c880bcf.png)
