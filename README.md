@@ -14,13 +14,15 @@ konten dapat dioptimasi di lebih dari satu perangkat. Hampir seluruh website yan
 menggunakan CSS di dalamnya. Selain tampilannya yang lebih menarik, kebanyakan browser 
 populer saat ini juga mendukung CSS.
 
-#Struktur CSS
+# 
+Struktur CSS
 Perintah CSS terdiri atas 2 komponen, yakni Selector & Declaration. Selector berfungsi untuk 
 memberi tahu browser bahwa pada elemen mana rule CSS diterapkan. Selector dapat berupa 
 elemen HTML, selector class atau selector id. Declaration merupakan aturan CSS yang diterapkan, 
 terdiri atas property dan value.
 
-#Aturan Penulisan CSS
+#
+Aturan Penulisan CSS
 Penulisan CSS dapat dilakukan dengan tiga cara, yaitu penulisan secara internal, external dan inline. 
 Internal adalah kode CSS ditulis pada dokumen HTML pada bagian head dokumen. External CSS 
 adalah kode CSS ditulis terpisah dengan dokumen HTML berupa file Style Sheet (.css). Sedangkan 
@@ -44,27 +46,28 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( < p id = " paragraf - 1 " class = " text - paragraf " > )
 
 
-#![Screenshot (138)](https://user-images.githubusercontent.com/56498195/113093721-a467c080-921a-11eb-8628-bec78614360e.png)
+#
+![Screenshot (138)](https://user-images.githubusercontent.com/56498195/113093721-a467c080-921a-11eb-8628-bec78614360e.png)
 
-
+#
 ![Screenshot (139)](https://user-images.githubusercontent.com/56498195/113093728-a6318400-921a-11eb-93f3-17f032891027.png)
 
-
+#
 ![Screenshot (140)](https://user-images.githubusercontent.com/56498195/113093732-a762b100-921a-11eb-955b-5c93dc68dc02.png)
 
-
+#
 ![Screenshot (143)](https://user-images.githubusercontent.com/56498195/113093743-ab8ece80-921a-11eb-92ef-a330c31eded6.png)
 
 
-
+#
 ![Screenshot (141)](https://user-images.githubusercontent.com/56498195/113093733-a893de00-921a-11eb-84d5-f37a9f66bf2d.png)
 
-
+#
 ![Screenshot (144)](https://user-images.githubusercontent.com/56498195/113093745-acbffb80-921a-11eb-8114-1de890e8b0c9.png)
 
-
+#
 ![Screenshot (142)](https://user-images.githubusercontent.com/56498195/113093738-aa5da180-921a-11eb-9124-c1891c880bcf.png)
 
-
+#
 ![Screenshot (145)](https://user-images.githubusercontent.com/56498195/113093749-ae89bf00-921a-11eb-907f-dfa32915c1fe.png)
 
