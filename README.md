@@ -5,7 +5,8 @@
 ![css](https://user-images.githubusercontent.com/56498195/113094969-da0da900-921c-11eb-88c7-7c27b2a26775.png)
 
 # 
-Cascading Style Sheet (CSS) merupakan aturan untuk mengatur beberapa komponen dalam sebuah 
+# Cascading Style Sheet (CSS) 
+merupakan aturan untuk mengatur beberapa komponen dalam sebuah 
 web sehingga akan lebih terstruktur dan seragam. CSS bukan merupakan bahasa pemograman. CSS 
 memudahkan dalam mengubah tampilan di berbagai halaman. Hanya dengan mengubah fungsi 
 style di file CSS maka seluruh tampilan yang menggunakan fungsi tersebut akan berubah secara 
@@ -15,20 +16,20 @@ menggunakan CSS di dalamnya. Selain tampilannya yang lebih menarik, kebanyakan b
 populer saat ini juga mendukung CSS.
 
 # 
-Struktur CSS
+# Struktur CSS
 Perintah CSS terdiri atas 2 komponen, yakni Selector & Declaration. Selector berfungsi untuk 
 memberi tahu browser bahwa pada elemen mana rule CSS diterapkan. Selector dapat berupa 
 elemen HTML, selector class atau selector id. Declaration merupakan aturan CSS yang diterapkan, 
 terdiri atas property dan value.
 
 #
-Aturan Penulisan CSS
+# Aturan Penulisan CSS
 Penulisan CSS dapat dilakukan dengan tiga cara, yaitu penulisan secara internal, external dan inline. 
 Internal adalah kode CSS ditulis pada dokumen HTML pada bagian head dokumen. External CSS 
 adalah kode CSS ditulis terpisah dengan dokumen HTML berupa file Style Sheet (.css). Sedangkan 
 Inline CSS adalah kode CSS ditulis sebagai artribut pada tag HTML
 
-
+#
 
 
 # Pertanyaan dan Tugas
