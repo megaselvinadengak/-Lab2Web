@@ -14,6 +14,18 @@ konten dapat dioptimasi di lebih dari satu perangkat. Hampir seluruh website yan
 menggunakan CSS di dalamnya. Selain tampilannya yang lebih menarik, kebanyakan browser 
 populer saat ini juga mendukung CSS.
 
+#Struktur CSS
+Perintah CSS terdiri atas 2 komponen, yakni Selector & Declaration. Selector berfungsi untuk 
+memberi tahu browser bahwa pada elemen mana rule CSS diterapkan. Selector dapat berupa 
+elemen HTML, selector class atau selector id. Declaration merupakan aturan CSS yang diterapkan, 
+terdiri atas property dan value.
+
+#Aturan Penulisan CSS
+Penulisan CSS dapat dilakukan dengan tiga cara, yaitu penulisan secara internal, external dan inline. 
+Internal adalah kode CSS ditulis pada dokumen HTML pada bagian head dokumen. External CSS 
+adalah kode CSS ditulis terpisah dengan dokumen HTML berupa file Style Sheet (.css). Sedangkan 
+Inline CSS adalah kode CSS ditulis sebagai artribut pada tag HTML
+
 
 
 
@@ -22,7 +34,7 @@ populer saat ini juga mendukung CSS.
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
 penjelasannya!
-Jawab:
+*Jawab*:
       Biasanya H1 hanya digunakan satu kali dalam sebuah halaman web, yaitu sebagai judul utama (judul besar), sedangkan Intro di gunakan untuk perintah dalam satu kesatuan
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan 
