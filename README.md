@@ -1,11 +1,11 @@
-# Nama : Mega S Dengak
+# Nama  : Mega S Dengak
 # Nim   : 311910130
-# Kelas :TI.19.A.1
+# Kelas : TI.19.A.1
 
-
+#
 # Lab2Web
 
-
+#
 # DASAR CSS
 
 ![css](https://user-images.githubusercontent.com/56498195/113094969-da0da900-921c-11eb-88c7-7c27b2a26775.png)
